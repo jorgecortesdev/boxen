@@ -55,3 +55,11 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "wget",      "1.0.0"
+github "autoconf",  "1.0.0"
+github "libtool",   "1.0.0"
+github "pcre",      "1.0.0"
+github "libpng",    "1.0.0"
+
+

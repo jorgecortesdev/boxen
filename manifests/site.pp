@@ -74,6 +74,13 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
+  # Custom
+  include wget
+  include autoconf
+  include libtool
+  include pcre
+  include libpng
+
   # common, useful packages
   package {
     [
